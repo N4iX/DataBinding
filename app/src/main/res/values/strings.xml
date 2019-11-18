@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="set_name">Set Name</string>
+    <string name="set_contact_num">Set Contact Number</string>
+</resources>
